@@ -1,9 +1,9 @@
 articles = [
 {
-_id: 1,
-title: "1",
-content: "A",
-image: "",
-date: ""
+"_id": 1,
+"title": "1",
+"content": "A",
+"image": "",
+"date": ""
 }
 ]
